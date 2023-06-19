@@ -4,7 +4,7 @@ The Posta Moldovei Delivery App revolutionizes package delivery. Empowering indi
 # Features:
 
 - **Delivery Agent Registration:** Create a profile, provide personal information and identification documents, and start accepting delivery requests.
-![login](/screenshots/0-02-05-a6f21a1b34e69d8e224c09573b3577012bf8dabaccf182198c00cf2d5083a83d_de5793d09312e5e5.jpg)
+![login](/screenshots/0-02-05-1cc41febd57b06b42324e3d888ed11286d7335f75f0812f8c5f7c41ef8923866_9758b8163ede0e8f.jpg)
 
 
 - **Delivery Requests:** Customers create delivery requests, including package details, pickup and delivery addresses, and preferred delivery time.
