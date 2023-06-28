@@ -1,4 +1,4 @@
-## Posta Moldovei Delivery App
+## Posta Moldovei Delivery App (First Lego League 2022 project)
 The Posta Moldovei Delivery App revolutionizes package delivery. Empowering individuals to become delivery agents for Posta Moldovei, the national postal service of Moldova, this Flutter-based mobile application enables easy sign-up, package delivery, and direct in-app payments.
 
 # Features:
