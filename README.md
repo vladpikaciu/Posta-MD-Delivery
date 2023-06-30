@@ -9,5 +9,5 @@ The Posta Moldovei Delivery App revolutionizes package delivery. Empowering indi
 - **Delivery Agent Selection:** Delivery agents view available requests, including package details, locations, and estimated shipping fees.
 - **Payment Integration:** Delivery agents receive payments directly within the app, supporting various payment methods.
 - **Rating and Feedback:** Customers can rate and provide feedback, maintaining high-quality service and building a reliable reputation for delivery agents.
-  
+
 [**Screenshot Album**](https://photos.app.goo.gl/Nkzz8SeX5pwBbMRP7)
